@@ -28,8 +28,6 @@ Designed to ensure both functionality and security, the **MM2 Script** empowers 
 3. **Activate the Features**: Paste the script into your executor and launch the GUI to explore its robust capabilities 🖱️.  
 4. **Customize and Win**: Tailor the settings to suit your style and dominate every match! 🌟  
 
-## ⚠️ Important Note:  
-Using external scripts in Roblox games may result in account penalties, including bans. Use responsibly and adhere to Roblox’s terms of service. This tool is for **educational purposes only** and should be utilized at your discretion.  
 
 ## License:  
 This project operates under the **MIT License**. For further details, consult the [LICENSE](LICENSE) file.  
